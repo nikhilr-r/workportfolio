@@ -1,0 +1,28 @@
+# NJ Tech
+
+> NJ Tech is a software company based in Dhule, Maharashtra, India. We build custom websites and billing and inventory (ERP) software for local businesses such as shops, clinics, studios, godowns, gyms and distributors. We have worked with 12+ businesses.
+
+## What we build
+- Business websites: fast, mobile-first websites with product catalogues, WhatsApp quote and enquiry buttons, Google Maps and contact sections.
+- Retail billing and inventory software: POS billing with GST invoices, IMEI and serial number tracking, low-stock alerts, purchases, suppliers, returns, analytics, GSTR reports and backups.
+- Dealer and wholesale ERP: dealer billing in square feet, ledgers and credit limits, godown stock, collection routes, cash handover and role-based logins.
+- Custom software: dashboards, reports, staff targets and workflows built around how a business runs.
+
+## Selected work
+- Shree Laxminarayan Enterprises (plywood, doors and hardware distributor, Dhule): business website with a digital catalogue and WhatsApp quote requests. https://www.shreelaxminarayanplydhule.in/
+- Dream Fitness Studio: website for a fitness club. https://dreamfitness.gencreation.dev/
+- Mobile shop billing and inventory ERP: POS billing, IMEI tracking, expenses, analytics and GST reports. Works offline.
+- Plywood and hardware trading ERP: dealer ledgers, godown stock, route-wise collections and role-based logins.
+- QueueCut: QR-based virtual queue and salon management for salons and barbershops. Customers join by scanning a counter QR code, with no app or login, and get live waiting estimates and alerts. https://queue-cut.onrender.com/
+- Restaurant loyalty system: tracks repeat visits and rewards regular customers.
+
+## Contact
+- Jatin Kalda, co-founder: +91 98813 45138, kaldajatin91@gmail.com, https://www.linkedin.com/in/jatin-kalda-b91063333/
+- Nikhil Rajput, co-founder: +91 86052 70435, rajputnikhil1906@gmail.com, https://www.linkedin.com/in/nikhil-rajput-nr1906
+- Website: https://nj-tech.in/
+
+## Frequently asked questions
+- Cost: every project is quoted after a short conversation, with a clear itemised quote.
+- Data: the client owns their data. Billing systems can run on the client's own computer, work offline and take regular backups.
+- Support: we train the client's team and stay available for fixes, updates and new features after launch.
+- Customisation: every system is built around the client's workflow, products and reports.
